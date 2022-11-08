@@ -1,4 +1,15 @@
 # INFINITY-BOUTIQUE
+
+Group Leader: Syed Faizan Haider
+Group Members:
+1: Esha Tahir
+2: Emaan Waheed
+3: Omiya Jadoon
+4: Bushra Gul
+5: Aiman Sajjad
+6: Hira Akran
+7: Aleeza Qadeer
+
 Description:
 Infinity boutique is an electronic trade framework which provides a user/client to visit an online 
 store and shop different items that they desire. With the use of this system, users won't need to 
